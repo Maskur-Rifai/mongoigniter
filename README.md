@@ -1,3 +1,3 @@
-# mongoigniter
+# Mongoigniter
 
-coppy mongoigniter.php to application/config
+cut mongoigniter.php to application/config
